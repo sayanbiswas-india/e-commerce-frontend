@@ -1,0 +1,23 @@
+html , body{
+    overflow-x: hidden;
+}
+
+
+
+.card:hover {
+    opacity: 0.9;
+  }
+
+#navbarSupportedContent > svg :hover {
+    background-color: black;
+}
+
+::placeholder {
+    color: rgb(0, 0, 0); /* Chrome, Firefox, Opera, Safari 10.1+ */
+    opacity: 1; /* Firefox */
+  }
+
+#navbarSupportedContent > svg :hover{
+  cursor: pointer;
+}
+
