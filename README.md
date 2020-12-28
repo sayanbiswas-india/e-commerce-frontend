@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+The website is hosted on https://5fea124d32319c9f91ea6014--awesome-haibt-0572de.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
